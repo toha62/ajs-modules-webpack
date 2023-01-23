@@ -11,6 +11,7 @@
   "author": "toha62",
   "license": "ISC",
   "devDependencies": {
+    "babel-loader": "^9.1.2",
     "css-loader": "^6.7.3",
     "html-webpack-plugin": "^5.5.0",
     "live-server": "^1.2.2",
